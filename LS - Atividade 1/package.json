@@ -1,0 +1,12 @@
+{
+    "name": "atividade-1",
+    "version": "1.0.0",
+    "description": "Atividade 1 for LS",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
